@@ -1,0 +1,98 @@
+.header {
+    display: flex;
+    align-items: center; 
+    padding: 10px;
+  }
+  
+  .logo {
+    flex: 1; 
+  }
+  
+  .search {
+    flex: 4;
+    display: flex;
+    justify-content: center;
+  }
+
+  .search-box {
+    width: 100%; 
+    max-width: 600px; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button {
+    flex: 1; 
+    text-align: right;
+  }
+  
+
+
+  .sign-in-btn {
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 16px; 
+  }
+  
+  .sign-in-btn:hover {
+    background-color: #45a049; 
+  }
+
+  .nav {
+    display: flex; 
+    justify-content: flex-start; 
+    align-items: center; 
+    background-color: #f8f8f8; 
+    padding: 10px; 
+  }
+  
+  .nav div {
+    padding: 5px 10px; 
+  }
+  
+  .nav a {
+    text-decoration: none; 
+    color: #333; 
+    font-size: 18px; 
+  }
+  
+  .nav a:hover {
+    color: #4CAF50; 
+  }
+
+
+  .movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+    gap: 20px; 
+    padding: 20px; 
+  }
+  
+  .movie-item {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+
+  .footer {
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+    padding: 10px 0; 
+    position: relative; 
+    bottom: 0; 
+    width: 100%; 
+  }
+  
+  
+  
