@@ -1,7 +1,6 @@
 <p align="center"><img width="40%" src=""/></p>
 
-![Alt text]
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9bdXhnN4hcFcSctYVVXpOHNsHP5nTDRBFqKg9LEHk6WizMsrvu5eyjeK9pfpFvwRyYw&usqp=CAU)
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9bdXhnN4hcFcSctYVVXpOHNsHP5nTDRBFqKg9LEHk6WizMsrvu5eyjeK9pfpFvwRyYw&usqp=CAU)
 
 
 # Hacktoberfest, 2024 with IEEE-VIT Student Branch
