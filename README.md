@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
    SESSION_SECRET=your_session_secret
    ```
 
-   Replace the placeholder values with your actual PassportJS credentials.
+   Replace the placeholder values with your actual credentials.
 ### Installation
 1. Clone the repository to your local machine:
 ```bash
