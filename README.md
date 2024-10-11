@@ -2,7 +2,7 @@
 
 # Hacktoberfest, 2024 with IEEE-VIT Student Branch
 
-Ticket booking website is a Node.js-powered web-based ticket booking platform that enables users to browse movies, select theaters, and make reservations seamlessly. This repository was created to help developers get started with Open Source during [Hacktoberfest](https://hacktoberfest.com/)
+Ticketease is a Node.js-powered web-based ticket booking platform that enables users to browse movies, select theaters, and make reservations seamlessly. This repository was created to help developers get started with Open Source during [Hacktoberfest](https://hacktoberfest.com/)
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 
 Made with ❤️ by [IEEE-VIT](https://ieeevit.com)
