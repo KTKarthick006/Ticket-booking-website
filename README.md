@@ -78,7 +78,7 @@ The project is organized into the following key directories and files:
   - `controller/Booking.js` - Handles booking operations.
 
 ## Contributing
-To start contributing, check out [CONTRIBUTING.md](). New contributors are always welcome to support this project. Check out issues labelled as `Hacktoberfest` if you are up for some grabs! :)
+To start contributing, check out [CONTRIBUTING.md](https://github.com/KTKarthick006/Ticket-booking-website/blob/main/CONTRIBUTING.md). New contributors are always welcome to support this project. Check out issues labelled as `Hacktoberfest` if you are up for some grabs! :)
 
 ## License
 This project is licensed under [MIT]()
