@@ -35,7 +35,7 @@ Ensure you have the following installed on your system:
 ### Installation
 1. Clone the repository to your local machine:
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/KTKarthick006/Ticket-booking-website.git
 ```
 
 2. Navigate into the backend directory:
